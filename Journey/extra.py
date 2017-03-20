@@ -1,0 +1,7 @@
+bk.draw()
+game.drawText("Journey To Paradise",485,270)
+game.drawText("By: Black Wolves",600,385)
+game.drawText("Press [SPACE] to play",700,450)
+game.drawText("Use ARROW keys to move",700,550)
+game.update(1)
+game.wait(K_SPACE)
